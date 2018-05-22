@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nulleof/react-native-jwplayer.git"
+    "url": "git+https://github.com/dxa04099/react-native-jwplayer-module.git"
   },
   "author": "Subhan",
   "license": "MIT",
