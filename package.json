@@ -17,10 +17,11 @@
     "type": "git",
     "url": "git+https://github.com/dxa04099/react-native-jwplayer-module.git"
   },
+  "package-name": "git+https://github.com/dxa04099/react-native-jwplayer-module.git",
   "author": "Subhan",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "0.48.4",
     "react": "16.0.0-alpha.12"
-  },
+  }
 }
